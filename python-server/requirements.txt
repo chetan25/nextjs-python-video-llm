@@ -1,0 +1,8 @@
+tornado==6.4
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-core==0.2.23
+langchain-openai==0.1.17
+langchain-text-splitters==0.2.2
+python-dotenv==1.0.0
+langgraph==0.1.12
